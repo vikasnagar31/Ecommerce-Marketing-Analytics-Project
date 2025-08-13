@@ -50,7 +50,20 @@ This analysis aims to address several key business questions. The following is a
     *   Identify the top 10 highest and lowest-rated products.
     *   Calculate the average customer rating by location, seller, product, category, and month.
 
+## Methodology
 
+The project was executed following a structured analytical approach:
+
+1.  **Data Cleaning and Preparation:** The initial phase involved a thorough cleaning of the provided dataset. This included handling missing values, correcting data types, and ensuring data consistency across all tables to prepare it for analysis.
+
+2.  **Exploratory Data Analysis (EDA):** A deep dive into the data to uncover initial patterns, anomalies, and relationships. This involved calculating key business metrics and visualizing trends over time and across different segments.
+
+3.  **Customer and Seller Segmentation:** Utilized RFM (Recency, Frequency, Monetary) analysis principles to segment customers and sellers based on their revenue contribution. This helps in tailoring marketing and seller management strategies.
+
+4.  **Market Basket Analysis:** Implemented association rule mining (Apriori algorithm) to identify products that are frequently bought together, providing insights for cross-selling and product bundling strategies.
+
+5.  **Behavioral Analysis:** Analyzed payment preferences and customer satisfaction ratings to understand user behavior and identify areas for improving the customer experience.
+6.  etc...
 
 ## Tools and Libraries Used
 
