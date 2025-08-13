@@ -75,7 +75,6 @@ The project was executed following a structured analytical approach:
     *   **Scikit-learn:** For machine learning algorithms (e.g., for segmentation).
  
 ## Project Structure
-├── data/
 │ ├── Customers.csv
 │ ├── Sellers.csv
 │ ├── Products.csv
@@ -84,8 +83,7 @@ The project was executed following a structured analytical approach:
 │ ├── Order_Payments.csv
 │ ├── Order_Review_Ratings.csv
 │ └── Geo-Location.csv
-├── notebooks/
-│ └── E-Commerce_Analysis.ipynb
+│ └── E-Commerce_Analytics.ipynb
 └── README.md
  
 ## How to Use This Repository
