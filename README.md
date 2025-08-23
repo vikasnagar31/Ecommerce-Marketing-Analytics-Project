@@ -1,5 +1,5 @@
 # Ecommerce-Marketing-Analytics-Project
-An In-depth analysis of E-comm marketplace's data. This project focuses on providing data-driven insights into customer &amp; seller behavior, product performance, &amp; channel effectiveness to analyze overall business performance. Key analyses include EDA, customer & amp; seller segmentation, cross-selling analysis, payment behavior, &amp; customer satisfaction.
+An In-depth analysis of E-comm marketplace's data. This project focuses on providing data-driven insights into customer &amp; seller behavior, product performance, &amp; channel effectiveness to analyze overall business performance. Key analyses include EDA, customer &amp; seller segmentation, cross-selling analysis, payment behavior, &amp; customer satisfaction.
 
 ## Project Overview
 
